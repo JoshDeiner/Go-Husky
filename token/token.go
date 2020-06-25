@@ -15,7 +15,7 @@ const (
 	ASSIGN = "="
 	PLUS = "+"
 	COMMA = ","
-	PLUS = ";"
+	SEMICOLON= ";"
 	LPAREN = "("
 	RPAREN =")"
 	LBRACE = "{"
